@@ -1,0 +1,14 @@
+C:\Users\lab_services_student\source\repos\CMCSprototype\bin\Debug\CMCSprototype.exe.config
+C:\Users\lab_services_student\source\repos\CMCSprototype\bin\Debug\CMCSprototype.exe
+C:\Users\lab_services_student\source\repos\CMCSprototype\bin\Debug\CMCSprototype.pdb
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\MainWindow.baml
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\MainWindow.g.cs
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\App.g.cs
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype_MarkupCompile.cache
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.g.resources
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.Properties.Resources.resources
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.csproj.GenerateResource.cache
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.exe
+C:\Users\lab_services_student\source\repos\CMCSprototype\obj\Debug\CMCSprototype.pdb
